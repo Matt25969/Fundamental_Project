@@ -1,2 +1,3 @@
-# Fundamental_Project
-This is the Repo for my first SFIA project at the Academy
+# Fundamental Project
+
+Project Documentation goes here
